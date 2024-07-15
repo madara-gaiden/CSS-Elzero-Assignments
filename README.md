@@ -6,6 +6,6 @@ Study Plan: [https://elzero.org/study/css-2021-study-plan/]
 
 Assignments: [https://elzero.org/category/assignments/css-assignments/]
 
-Watched Videos => [ 4 From 88 ]
+Watched Videos => [ 8 From 88 ]
 
-![5%](https://progress-bar.dev/5/?title=progress)
+![9%](https://progress-bar.dev/9/?title=progress)
